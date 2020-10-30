@@ -1,0 +1,10 @@
+#miTitulo{
+    color: rgba(0, 104, 189, 0.68);
+    font-size: 50px;
+}
+
+
+.texto-borde {
+    -webkit-text-stroke: 2px black;
+    color: red; 
+  }
